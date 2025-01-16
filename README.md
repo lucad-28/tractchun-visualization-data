@@ -4,7 +4,5 @@ This is my version of an exercise of the course "Microsoft Power BI – Curso de
 
 To use this report, you need to change all the tables data and images sources to your own data sources, using Advance Editor.
 
-<video width="640" height="360" controls>
-  <source src="./resources/example.mp4" type="video/mp4">
-  Something failed.
-</video>
+https://github.com/user-attachments/assets/9d5c6a47-e362-470f-8908-b3b66d027b8f
+
